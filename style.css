@@ -1,0 +1,740 @@
+@keyframes slidein {
+    from {
+      opacity: 0.8;
+    }
+  
+    to {
+      opacity: 1;
+    }
+}
+
+.col-sm-4{
+    margin-bottom: 40px;
+}
+
+.p-box{
+    width: 100%;
+    height: 500px;
+}
+
+.p37{
+    background-image: url("produtos/P37.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p36{
+    background-image: url("produtos/P36.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p36:hover{
+    background-image: url("produtos/P36-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p35{
+    background-image: url("produtos/P35.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p34{
+    background-image: url("produtos/P34.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p34:hover{
+    background-image: url("produtos/P34-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p33{
+    background-image: url("produtos/P33.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p33:hover{
+    background-image: url("produtos/P33-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p32{
+    background-image: url("produtos/P32.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p32:hover{
+    background-image: url("produtos/P32-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p31{
+    background-image: url("produtos/P31.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p31:hover{
+    background-image: url("produtos/P31-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p30{
+    background-image: url("produtos/P30.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p29{
+    background-image: url("produtos/P29.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p29:hover{
+    background-image: url("produtos/P29-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p28{
+    background-image: url("produtos/P28.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p28:hover{
+    background-image: url("produtos/P28-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p27{
+    background-image: url("produtos/P27.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p27:hover{
+    background-image: url("produtos/P27-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p26{
+    background-image: url("produtos/P26.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p26:hover{
+    background-image: url("produtos/P26-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p25{
+    background-image: url("produtos/P25.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p25:hover{
+    background-image: url("produtos/P25-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p24{
+    background-image: url("produtos/P24.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p24:hover{
+    background-image: url("produtos/P24-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p23{
+    background-image: url("produtos/P23.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p22{
+    background-image: url("produtos/P22.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p22:hover{
+    background-image: url("produtos/P22-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p21{
+    background-image: url("produtos/P21.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p21:hover{
+    background-image: url("produtos/P21-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p20{
+    background-image: url("produtos/P20.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p20:hover{
+    background-image: url("produtos/P20-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p19{
+    background-image: url("produtos/P19.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p19:hover{
+    background-image: url("produtos/P19-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p18{
+    background-image: url("produtos/P18.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p18:hover{
+    background-image: url("produtos/P18-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p17{
+    background-image: url("produtos/P17.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p17:hover{
+    background-image: url("produtos/P17-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p16{
+    background-image: url("produtos/P16.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p16:hover{
+    background-image: url("produtos/P16-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p15{
+    background-image: url("produtos/P15.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p15:hover{
+    background-image: url("produtos/P15-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p14{
+    background-image: url("produtos/P14.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p14:hover{
+    background-image: url("produtos/P14-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p13{
+    background-image: url("produtos/P13.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p13:hover{
+    background-image: url("produtos/P13-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p12{
+    background-image: url("produtos/P12.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p11{
+    background-image: url("produtos/P11.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p11:hover{
+    background-image: url("produtos/P11-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p10{
+    background-image: url("produtos/P10-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p10:hover{
+    background-image: url("produtos/P10.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p9{
+    background-image: url("produtos/P9.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p9:hover{
+    background-image: url("produtos/P9-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p8{
+    background-image: url("produtos/P8.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p8:hover{
+    background-image: url("produtos/P8-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p7{
+    background-image: url("produtos/P7.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p7:hover{
+    background-image: url("produtos/P7-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p6{
+    background-image: url("produtos/P6.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p6:hover{
+    background-image: url("produtos/P6-hover.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-duration: 1.5s;
+    animation-name: slidein;
+}
+
+.p5{
+    background-image: url("produtos/P5.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p4{
+    background-image: url("produtos/P4.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p3{
+    background-image: url("produtos/P3.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p2{
+    background-image: url("produtos/P2.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.p1{
+    background-image: url("produtos/P1.png");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
